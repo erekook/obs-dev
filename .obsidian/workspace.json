@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/前端性能优化.md",
+                "file": "前端/微前端.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "前端性能优化"
+              "title": "微前端"
             }
           }
         ]
@@ -170,17 +170,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "github-sync:Sync with Remote": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "github-sync:Sync with Remote": false
+      "command-palette:打开命令面板": false
     }
   },
   "active": "776dd6f5e04e55ab",
   "lastOpenFiles": [
+    "前端/前端性能优化.md",
+    "前端/微前端.md",
+    "前端/学习路线.md",
     "test.html",
     "index.html",
     "format-white-list.js",
@@ -192,8 +195,6 @@
     "欢迎.md",
     "JavaScript",
     "HTML",
-    "CSS",
-    "前端/前端性能优化.md",
     "知识/编程/前端/前端性能优化.md"
   ]
 }

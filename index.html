@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>JavaScript高级程序设计笔记</title>
+	<!-- <script type="text/javascript">
+		function a () {
+			alert("a")
+		}
+		console.log(typeof age);
+		console.log(null == undefined);
+		var message = "hello";
+		var messageAsBoolean = Boolean(message); // Boolean 把其他类型转换成布尔类型
+		console.log(messageAsBoolean);
+		// 永远不要测试某个特定的浮点数值
+		console.log("0.1 + 0.2 = ", 0.1 + 0.2);
+		if (0.1 + 0.2 == 0.3){
+			console.log("it is 0.3", 0.1 + 0.2);
+		}
+	
+		// 数值范围 Number.MIN_VALUE ~ Number.MAX_VALUE
+		// 超过这个返回会返回Infinity 无穷大
+		var result = Number.MAX_VALUE + Number.MAX_VALUE;
+		console.log(result,isFinite(result)); // Infinity false
+	
+		console.log(Number(true)) // 1
+		console.log(parseInt("070",8)) // 56
+		console.log("\03a3") //sigema
+	
+		var obj = new Object();
+		obj.name = "erek";
+		console.log(obj.hasOwnProperty("name")); // true
+		
+		// arguments 对象是由传入的参数决定的
+		function doAdd (num1, num2) {
+			arguments[1] = 10;
+			alert(arguments[0] + num2);
+		}
+		doAdd(10);
+	
+		var num = 100;
+		console.log(num.toString());
+		console.log(num.toString(2));
+		console.log(num.toString(8));
+		console.log(num.toString(10));
+		console.log(num.toString(16));
+	
+	
+		//  === 全等 !== 不全等  在未转换的情况下比较
+		console.log("55" == 55); // true 字符串“55”转换成数值是相等的
+		// console.log("55" === 55); // false 字符串和数值是不相等的
+	
+	</script> -->
+	<script type="text/javascript" src="chapter2.js"></script>
+</head>
+<body>
+	<h1 id="p1">文档模式</h1>
+	<p>混杂模式: quick mode</p>
+	<p>标准模式: standards mode</p>
+
+</body>
+	<!-- script标签一般放在body后面 等页面加载完成后再加载脚本文件 -->
+	<!-- async 可选 表示应该立即下载脚本，但不应妨碍页面中的其他操作 只对外部脚本文件有效 -->
+	<!-- <script type="text/javascript" async src="chapter2.js"></script> -->
+	<!-- defer 这个属性是表明脚本在执行时会影响页面的构造，脚本会延迟到整个页面都解析完毕后执行 -->
+	<!-- 
+	<script type="text/javascript" defer="defer" src="chapter3.js"></script>
+	<script type="text/javascript" defer="defer" src="chapter4.js"></script> 
+	-->
+	
+</html>

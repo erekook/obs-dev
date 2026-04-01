@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "欢迎.md",
+                "file": "前端/前端性能优化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "欢迎"
+              "title": "前端性能优化"
             }
           }
         ]
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎.md",
+                "file": "前端/前端性能优化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "欢迎 的反向链接列表"
+              "title": "前端性能优化 的反向链接列表"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "欢迎.md",
+                "file": "前端/前端性能优化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "欢迎 的出链列表"
+              "title": "前端性能优化 的出链列表"
             }
           },
           {
@@ -155,10 +155,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md"
+                "file": "前端/前端性能优化.md"
               },
               "icon": "lucide-list",
-              "title": "欢迎 的大纲"
+              "title": "前端性能优化 的大纲"
             }
           }
         ]
@@ -175,12 +175,24 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "6714725001a59cc7",
   "lastOpenFiles": [
-    "未命名文件夹",
-    "欢迎.md"
+    "欢迎.md",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "前端/前端性能优化.md",
+    "前端",
+    "构建工具/Vite",
+    "构建工具",
+    "知识/编程/构建工具/Vite",
+    "知识/编程/前端/前端性能优化.md",
+    "知识/编程/构建工具",
+    "知识/编程/前端",
+    "知识/编程/JavaScript"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "remoteURL": "git@github.com:erekook/obs-dev.git",
   "gitLocation": "",
-  "syncinterval": 2,
-  "isSyncOnLoad": true,
+  "syncinterval": 30,
+  "isSyncOnLoad": false,
   "checkStatusOnLoad": true
 }

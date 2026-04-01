@@ -179,20 +179,21 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "6714725001a59cc7",
+  "active": "776dd6f5e04e55ab",
   "lastOpenFiles": [
+    "test.html",
+    "index.html",
+    "format-white-list.js",
+    "es6/index.html",
+    "es6/destructuring-assignment.js",
+    "es6",
+    "CSS/test01.html",
+    "chapter2.js",
     "欢迎.md",
     "JavaScript",
     "HTML",
     "CSS",
     "前端/前端性能优化.md",
-    "前端",
-    "构建工具/Vite",
-    "构建工具",
-    "知识/编程/构建工具/Vite",
-    "知识/编程/前端/前端性能优化.md",
-    "知识/编程/构建工具",
-    "知识/编程/前端",
-    "知识/编程/JavaScript"
+    "知识/编程/前端/前端性能优化.md"
   ]
 }

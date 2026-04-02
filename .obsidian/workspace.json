@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/微前端.md",
+                "file": "HTML/本地存储.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "微前端"
+              "title": "本地存储"
             }
           }
         ]
@@ -56,7 +56,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -170,6 +171,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "github-sync:Sync with Remote": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -181,9 +183,32 @@
   },
   "active": "776dd6f5e04e55ab",
   "lastOpenFiles": [
-    "前端/前端性能优化.md",
+    "HTML/SEO.md",
+    "HTML/iframe.md",
+    "HTML/HTML5与可访问性.md",
+    "HTML/HTML5与SEO.md",
+    "HTML/data-自定义属性.md",
+    "HTML/History API.md",
+    "HTML/拖拽API.md",
+    "HTML/地理定位.md",
+    "HTML/WebSocket.md",
+    "HTML/Web Worker.md",
+    "HTML/浏览器缓存与前端存储.md",
+    "HTML/本地存储.md",
+    "HTML/表单校验.md",
+    "HTML/表单新增特性.md",
+    "HTML/Canvas与SVG.md",
+    "HTML/音视频标签.md",
+    "HTML/meta标签.md",
+    "HTML/doctype与渲染模式.md",
+    "HTML/HTML5新增标签.md",
+    "HTML/基础语法.md",
+    "HTML/HTML 和 HTML5.md",
+    "HTML/语义化标签.md",
+    "SEO.md",
+    "Untitled.md",
     "前端/微前端.md",
-    "前端/学习路线.md",
+    "前端/前端性能优化.md",
     "test.html",
     "index.html",
     "format-white-list.js",
@@ -192,9 +217,7 @@
     "es6",
     "CSS/test01.html",
     "chapter2.js",
-    "欢迎.md",
     "JavaScript",
-    "HTML",
-    "知识/编程/前端/前端性能优化.md"
+    "HTML"
   ]
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML/本地存储.md",
+                "file": "面试题/JavaScript_原型链与继承机制.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "本地存储"
+              "title": "JavaScript_原型链与继承机制"
             }
           }
         ]
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 477.5
   },
   "right": {
     "id": "09e77d648073708e",
@@ -183,32 +183,34 @@
   },
   "active": "776dd6f5e04e55ab",
   "lastOpenFiles": [
-    "HTML/SEO.md",
-    "HTML/iframe.md",
-    "HTML/HTML5与可访问性.md",
-    "HTML/HTML5与SEO.md",
-    "HTML/data-自定义属性.md",
-    "HTML/History API.md",
-    "HTML/拖拽API.md",
-    "HTML/地理定位.md",
-    "HTML/WebSocket.md",
-    "HTML/Web Worker.md",
-    "HTML/浏览器缓存与前端存储.md",
-    "HTML/本地存储.md",
-    "HTML/表单校验.md",
-    "HTML/表单新增特性.md",
-    "HTML/Canvas与SVG.md",
-    "HTML/音视频标签.md",
-    "HTML/meta标签.md",
-    "HTML/doctype与渲染模式.md",
-    "HTML/HTML5新增标签.md",
-    "HTML/基础语法.md",
-    "HTML/HTML 和 HTML5.md",
-    "HTML/语义化标签.md",
-    "SEO.md",
-    "Untitled.md",
-    "前端/微前端.md",
-    "前端/前端性能优化.md",
+    "面试题/浏览器_事件冒泡捕获和事件委托.md",
+    "面试题/JavaScript_闭包的概念与应用场景.md",
+    "面试题/HTML-CSS_圣杯布局与双飞翼布局区别.md",
+    "面试题/场景设计_接口重复提交如何处理.md",
+    "面试题/手写题_实现Promise.all.md",
+    "面试题/性能优化_长列表优化方案.md",
+    "面试题/工程化_TreeShaking原理与限制.md",
+    "面试题/React-Vue_useEffect和useLayoutEffect区别.md",
+    "面试题/HTTP-网络_跨域的原因和常见解决方案.md",
+    "面试题/JavaScript_this指向规则.md",
+    "面试题/HTML-CSS_隐藏元素的几种方式及区别.md",
+    "面试题/场景设计_登录态过期如何处理.md",
+    "面试题/性能优化_防抖和节流的区别与场景.md",
+    "面试题/工程化_前端模块化CommonJSESM区别.md",
+    "面试题/React-Vue_React组件通信方式.md",
+    "面试题/浏览器_浏览器缓存位置与读取顺序.md",
+    "面试题/JavaScript_深拷贝常见实现与问题.md",
+    "面试题/HTML-CSS_水平垂直居中的实现方式.md",
+    "面试题/场景设计_无限滚动列表如何设计.md",
+    "面试题/JavaScript_为什么说JS是基于原型而不是基于类.md",
+    "面试题/JavaScript_Object.create做了什么.md",
+    "面试题/JavaScript_instanceof原理.md",
+    "面试题/JavaScript_对象属性如何沿原型链查找.md",
+    "面试题/JavaScript_new做了什么.md",
+    "面试题/JavaScript_prototype和__proto__区别.md",
+    "面试题/JavaScript_prototype-__proto__-constructor区别.md",
+    "面试题",
+    "未命名文件夹",
     "test.html",
     "index.html",
     "format-white-list.js",
@@ -216,8 +218,6 @@
     "es6/destructuring-assignment.js",
     "es6",
     "CSS/test01.html",
-    "chapter2.js",
-    "JavaScript",
-    "HTML"
+    "chapter2.js"
   ]
 }

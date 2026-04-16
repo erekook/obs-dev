@@ -1,7 +1,19 @@
-tags: [面试题, 前端/JavaScript, 前端/浏览器]
+tags: [面试题, 前端/JavaScript, 前端/总览]
 
 # 题目
 请你讲一下 JavaScript 的原型链。对象、构造函数、原型对象之间是什么关系？常见的继承方式有哪些？
+
+# 说明
+这是一篇原型链与继承机制的总览题，适合做专题总复习。
+如果要针对单个知识点强化，优先看这些拆分笔记：
+- JavaScript_什么是原型链.md
+- JavaScript_prototype-__proto__-constructor区别.md
+- JavaScript_prototype和__proto__区别.md
+- JavaScript_new做了什么.md
+- JavaScript_对象属性如何沿原型链查找.md
+- JavaScript_instanceof原理.md
+- JavaScript_Object.create做了什么.md
+- JavaScript_为什么说JS是基于原型而不是基于类.md
 
 # 回答要点
 - JavaScript 基于原型实现对象之间的属性继承与共享。

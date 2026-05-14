@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reminder/Claude中转网站.md",
+                "file": "面试题/玄哲前端面试题/HTML+CSS/什么是重绘？什么是回流？如何减少回流？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Claude中转网站"
+              "title": "什么是重绘？什么是回流？如何减少回流？"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/前端性能优化.md",
+                "file": "面试题/玄哲前端面试题/HTML+CSS/什么是重绘？什么是回流？如何减少回流？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "前端性能优化 的反向链接列表"
+              "title": "什么是重绘？什么是回流？如何减少回流？ 的反向链接列表"
             }
           },
           {
@@ -183,40 +183,41 @@
   },
   "active": "776dd6f5e04e55ab",
   "lastOpenFiles": [
-    "未命名.base",
+    "面试题/场景设计_页面里有多个弹窗怎么管理更稳.md",
+    "面试题/玄哲前端面试题/HTML+CSS",
     "reminder/Claude中转网站.md",
+    "面试题/玄哲前端面试题/HTML+CSS/什么是重绘？什么是回流？如何减少回流？.md",
+    "面试题/玄哲前端面试题",
+    "面试题/React-Vue_为什么页面拆组件后反而更好维护.md",
+    "面试题/HTTP-网络_为什么前端也要关注幂等性.md",
+    "面试题/浏览器_为什么页面切后台后定时器不准了.md",
+    "面试题/JavaScript_为什么有些bug只在异步里出现.md",
+    "面试题/HTML-CSS_为什么inline元素不能直接设置宽高.md",
+    "面试题/性能优化_为什么首屏渲染快了用户还觉得慢.md",
+    "面试题/场景设计_接口返回很慢时页面怎么设计体验.md",
+    "面试题/工程化_为什么前端项目要区分构建和部署.md",
+    "面试题/浏览器_为什么有的CSS会阻塞页面渲染.md",
+    "面试题/React-Vue_为什么修改对象属性页面没更新.md",
+    "面试题/手写题_实现带并发限制的请求调度.md",
+    "面试题/JavaScript_为什么Promise比回调更好维护.md",
+    "面试题/HTML-CSS_z-index为什么有时候不生效.md",
+    "面试题/HTTP-网络_XSS和CSRF区别.md",
+    "面试题/JavaScript_为什么数组也是对象.md",
+    "面试题/HTML-CSS_margin为什么有时候会重叠.md",
+    "面试题/场景设计_用户长时间停留页面怎么处理数据过期.md",
+    "面试题/性能优化_为什么重复渲染不一定等于性能问题.md",
+    "面试题/工程化_为什么TypeScript不能替代测试.md",
+    "面试题/浏览器_为什么页面会出现白屏.md",
+    "面试题/JavaScript_为什么for循环里setTimeout打印不对.md",
+    "面试题/性能优化_为什么同一个页面切回来更快.md",
+    "面试题/工程化_为什么包管理器要锁版本.md",
+    "未命名.base",
     "reminder/未命名",
     "reminder",
-    "HTML/本地存储.md",
-    "面试题/JavaScript_原型链与继承机制.md",
-    "面试题/场景设计_前端权限控制怎么设计.md",
-    "面试题/性能优化_首屏白屏时间如何优化.md",
-    "面试题/工程化_前端代码规范和lint的价值.md",
-    "面试题/React-Vue_Vue的computed和watch区别.md",
-    "面试题/HTTP-网络_HTTP1HTTP2HTTP3区别.md",
-    "面试题/浏览器_事件冒泡捕获和事件委托.md",
-    "面试题/JavaScript_闭包的概念与应用场景.md",
-    "面试题/HTML-CSS_圣杯布局与双飞翼布局区别.md",
-    "面试题/场景设计_接口重复提交如何处理.md",
-    "面试题/手写题_实现Promise.all.md",
-    "面试题/性能优化_长列表优化方案.md",
-    "面试题/工程化_TreeShaking原理与限制.md",
-    "面试题/React-Vue_useEffect和useLayoutEffect区别.md",
-    "面试题/HTTP-网络_跨域的原因和常见解决方案.md",
-    "面试题/JavaScript_this指向规则.md",
-    "面试题/HTML-CSS_隐藏元素的几种方式及区别.md",
-    "面试题/场景设计_登录态过期如何处理.md",
-    "面试题/性能优化_防抖和节流的区别与场景.md",
-    "面试题/工程化_前端模块化CommonJSESM区别.md",
-    "面试题/React-Vue_React组件通信方式.md",
-    "面试题/浏览器_浏览器缓存位置与读取顺序.md",
-    "面试题/JavaScript_深拷贝常见实现与问题.md",
     "面试题",
     "未命名文件夹",
     "test.html",
     "index.html",
-    "format-white-list.js",
-    "es6/index.html",
-    "es6/destructuring-assignment.js"
+    "format-white-list.js"
   ]
 }
